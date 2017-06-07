@@ -1,4 +1,5 @@
 *.blend
 *.blend1
 
-*_unlisted.fbx
+
+*unlisted*
