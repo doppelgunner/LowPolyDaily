@@ -11,4 +11,4 @@ Models I made for lowpoly daily - https://twitter.com/LowPolyDaily
 * **07 - Bigfoot**: Don't Starve's Bigfoot - [youtube video](https://youtu.be/NmUDg52vXUk), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/07_bigfoot/07_bigfoot)
 * **08 - Satellite**: Eye of Skadi Satellite - [youtube video](https://youtu.be/gTsMvBzuWQE), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/08_satellite/08_satellite)
 * **09 - Bathroom**: Butt Room - [youtube video](https://youtu.be/BhuObD8A7TQ), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/09_bathroom/09_bathroom)
-* **10 - Powerplant**: Powerplant - [youtube video - later](), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/10_powerplant/10_powerplant)
+* **10 - Powerplant**: Cyan powerplant - [youtube video - later](), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/10_powerplant/10_powerplant)
