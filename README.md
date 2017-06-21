@@ -9,5 +9,6 @@ Models I made for lowpoly daily - https://twitter.com/LowPolyDaily
 * **05 - Disco**: DISCo - [youtube video](https://youtu.be/zqkHSo7fVZk), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/05_disco/05_disco)
 * **06 - Vending Machine**: Monster-eggs vending machine - [youtube video](https://youtu.be/4g1QD2wisJ4), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/06_vending-machine/06_vending%20machine)
 * **07 - Bigfoot**: Don't Starve's Bigfoot - [youtube video](https://youtu.be/NmUDg52vXUk), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/07_bigfoot/07_bigfoot)
-* **08 - Satellite**: Eye of Skadi Satellite - [youtube video - later](https://youtu.be/gTsMvBzuWQE), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/08_satellite/08_satellite)
-* **09 - Bathroom**: Butt Room - [youtube video - later](https://youtu.be/BhuObD8A7TQ), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/09_bathroom/09_bathroom)
+* **08 - Satellite**: Eye of Skadi Satellite - [youtube video](https://youtu.be/gTsMvBzuWQE), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/08_satellite/08_satellite)
+* **09 - Bathroom**: Butt Room - [youtube video](https://youtu.be/BhuObD8A7TQ), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/09_bathroom/09_bathroom)
+* **10 - Powerplant**: Cyan powerplant - [youtube video](https://youtu.be/U9VWFU3N0hc), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/10_powerplant/10_powerplant)
