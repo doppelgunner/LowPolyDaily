@@ -13,3 +13,4 @@ Models I made for lowpoly daily - https://twitter.com/LowPolyDaily
 * **09 - Bathroom**: Butt Room - [youtube video](https://youtu.be/BhuObD8A7TQ), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/09_bathroom/09_bathroom)
 * **10 - Powerplant**: Cyan powerplant - [youtube video](https://youtu.be/U9VWFU3N0hc), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/10_powerplant/10_powerplant)
 * **11 - Panda**: Baby Panda - [youtube video](https://youtu.be/9iVafdtsy4Q), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/11_panda/11_panda)
+* **12 - Lightsaber**: Toon Lightsaber - [youtube video](https://youtu.be/RwdQqxHfklA), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/12_lightsaber/12_lightsaber)
