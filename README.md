@@ -14,3 +14,5 @@ Models I made for lowpoly daily - https://twitter.com/LowPolyDaily
 * **10 - Powerplant**: Cyan powerplant - [youtube video](https://youtu.be/U9VWFU3N0hc), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/10_powerplant/10_powerplant)
 * **11 - Panda**: Baby Panda - [youtube video](https://youtu.be/9iVafdtsy4Q), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/11_panda/11_panda)
 * **12 - Lightsaber**: Toon Lightsaber - [youtube video](https://youtu.be/RwdQqxHfklA), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/12_lightsaber/12_lightsaber)
+* **13 - Movie Set**: Director's Cut Board - [youtube video](https://youtu.be/MMn6Qe-WQyw), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/13_movieset/13_movie%20set)
+* **14 - Lightning**: Lightning Strike - [youtube video - later](), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/14_lightning/14_lightning)
