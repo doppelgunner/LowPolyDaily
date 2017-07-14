@@ -18,4 +18,4 @@ Models I made for lowpoly daily - https://twitter.com/LowPolyDaily
 * **14 - Lightning**: Lightning Strike - [youtube video](https://youtu.be/KVCBSN6Nur0), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/14_lightning/14_lightning)
 * **15 - Magic Wand**: Lightning Strike - [youtube video](https://youtu.be/XWfx3JrBWGw), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/15_magic-wand/15_magic%20wand)
 * **16 - Fireworks**: Doppelgunner (my) Fireworks - [youtube video](https://youtu.be/fEFv2bRpk-s), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/16_fireworks/16_fireworks)
-* **17 - Coffe**: Starbucks Coffee - [youtube video](https://youtu.be/ohls5n0tppc), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/17_coffee/17_coffee)
+* **17 - Coffee**: Starbucks Coffee - [youtube video](https://youtu.be/ohls5n0tppc), [downloadable fbx files](https://github.com/doppelgunner/LowPolyDaily/tree/17_coffee/17_coffee)
